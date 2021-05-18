@@ -1,4 +1,4 @@
-# React Store (In Progress)
+# React Store
 
 Languages Used: 
 - React
