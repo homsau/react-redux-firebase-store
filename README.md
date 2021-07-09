@@ -5,7 +5,7 @@ Technologies Used:
 - SASS
 - Firebase Authentication
 - Google Sign-In capabilities
-- Amazon S3 Cloud Storage
+- AWS - Amazon S3 Cloud Storage
 - Redux
 - Stripe
 
