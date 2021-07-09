@@ -2,34 +2,36 @@ const INITIAL_STATE = {
     sections: [
         {
           title: 'mens',
-          imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+          imageUrl: 'https://caution-clothing.s3.amazonaws.com/images/web-mens/sasuke.jpg',
           size: 'large',
           id: 1,
           linkUrl: 'shop/mens'
         },
         {
           title: 'womens',
-          imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+          imageUrl: 'https://caution-clothing.s3.amazonaws.com/images/web-womens/akatsuki.jpg',
           size: 'large',
           id: 2,
           linkUrl: 'shop/womens'
         },
         {
           title: 'footwear',
-          imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
-          // size: 'large',
+          imageUrl: 'https://caution-clothing.s3.amazonaws.com/images/web-footwear/geta.jpg',
+          size: 'large',
           id: 3,
           linkUrl: 'shop/footwear'
         },
         {
           title: 'headbands',
-          imageUrl: process.env.PUBLIC_URL + '/assets/inventory/headbands/mist.jpeg',
+          imageUrl: 'https://caution-clothing.s3.amazonaws.com/images/web-headwear/bnr-headband_leaf.jpg',
+          size: 'large',
           id: 4,
           linkUrl: 'shop/headbands'
         },
         {
           title: 'weapons',
-          imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
+          imageUrl: 'https://caution-clothing.s3.amazonaws.com/images/web-weapons/bnr-leaf_throwing_knife_set.jpg',
+          size: 'large',
           id: 5,
           linkUrl: 'shop/weapons'
         }
