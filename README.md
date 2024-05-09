@@ -1,4 +1,4 @@
-# React Store - [Heroku Link](https://reactstore-redux.herokuapp.com/)
+# React Store - [Heroku Link](https://cautionclothing.herokuapp.com/)
 
 Technologies Used: 
 - React
